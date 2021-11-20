@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/ibarra.alfonso/Documents/workspace_cblock/near-challange3-helloworld/contract/target/wasm32-unknown-unknown/debug/build/typenum-857f4fb0f712b24f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/ibarra.alfonso/Documents/workspace_cblock/near-challange3-helloworld/contract/target/wasm32-unknown-unknown/debug/build/typenum-857f4fb0f712b24f/out/op.rs
